@@ -44,3 +44,5 @@ jupyter notebook
 ```
 model = torch.load('real_keypoint.pt')
 ```
+
+- Link to the trained model [real_keypoint.pt](https://drive.google.com/file/d/1AjwczNooPj7JMYlfhTE8YFBTtmklP7vz/view?usp=drive_link)
