@@ -1,0 +1,8 @@
+prefix=/home/aravindh/cpp_ws/src/cpp2_pkg/build/devel
+
+Name: cpp2_pkg
+Description: Description of cpp2_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aravindh/cpp_ws/src/cpp2_pkg/build/devel/lib 
+Requires: 
