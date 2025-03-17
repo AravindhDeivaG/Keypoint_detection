@@ -1,4 +1,4 @@
-# Monocular camera based joint angle estimation of Baxter robot for sensroless actuation 
+# Monocular camera based joint angle estimation of Baxter robot for sensorless actuation 
 
 
 This proof of concept model demonstrates sensorless actuation of Rethink robotics baxter robot, using a combination of deeep learning and optimization based joint angle estimation
